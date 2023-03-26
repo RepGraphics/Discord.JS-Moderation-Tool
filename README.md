@@ -19,7 +19,7 @@ Then Edit the Information.json file to the Details you need:
 
 - Upload Bot Files
 - Add More Moderation Commands.
-- Add Command Logs.
+- Add Server Moderation Commands (Create Channels, Delete Channels).
 - On MessageCreate commands.
 
 ## 🔗 Links
